@@ -1,17 +1,72 @@
-# bayt_ahlana_estaurant
+# 🍽️ Bayt Ahlana – Restaurant User App
 
-A new Flutter project.
+<p align="center">
+  <h2>🏡 مطعم بيت أهلنا</h2>
+  <p>تطبيق طلب الطعام الإلكتروني – واجهة المستخدم</p>
+  <b>Bayt Ahlana Restaurant | Flutter Application</b>
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎬 فيديو توضيحي لتطبيق المستخدم
 
-A few resources to get you started if this is your first Flutter project:
+شاهد الفيديو التالي للتعرّف على تجربة استخدام تطبيق بيت أهلنا، واستعراض واجهات التطبيق وطريقة تصفح الوجبات والعروض الخاصة وإرسال الطلبات.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<p align="center">
+  <a href="YOUTUBE_VIDEO_LINK">
+    <img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" width="85%" alt="فيديو توضيحي لتطبيق بيت أهلنا">
+  </a>
+  <br>
+  <b>▶ اضغط على الصورة لمشاهدة الفيديو التوضيحي</b>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 نبذة عن التطبيق
+
+**بيت أهلنا** هو تطبيق إلكتروني خاص بمطعم بيت أهلنا، تم تطويره باستخدام Flutter لتوفير تجربة سهلة وعصرية للمستخدمين في تصفح الوجبات وطلب الطعام ومتابعة الطلبات.
+
+يهدف التطبيق إلى تسهيل عملية الطلب وتوفير واجهة استخدام جميلة وسريعة تدعم اللغة العربية.
+
+## ✨ مميزات التطبيق
+
+- 🔐 إنشاء حساب وتسجيل الدخول.
+- 🍔 تصفح الوجبات والأطعمة.
+- 🎁 عرض العروض والخصومات الخاصة.
+- 🔎 البحث عن الوجبات.
+- 🛒 إضافة العروض إلى السلة.
+- 📝 إرسال طلبات الطعام.
+- 📦 متابعة الطلبات وحالاتها.
+- 👤 الملف الشخصي للمستخدم.
+- 🌐 واجهة عربية تدعم RTL.
+
+## 🛠️ التقنيات المستخدمة
+
+| التقنية | الاستخدام |
+|---|---|
+| Flutter | تطوير واجهة التطبيق |
+| Dart | لغة البرمجة |
+| Laravel | Backend API |
+| MySQL | قاعدة البيانات |
+| REST API | تبادل البيانات |
+| SharedPreferences | حفظ بيانات الجلسة |
+
+## 🖥️ واجهات التطبيق
+
+سيتم إضافة صور شاشات التطبيق هنا.
+
+## 👨‍💻 المطور
+
+**Ali Abbas Saed**
+
+Flutter Developer & Laravel Backend Developer
+
+📍 Mosul, Iraq
+
+---
+
+<p align="center">
+  <b>Bayt Ahlana Restaurant</b>
+  <br>
+  ❤️ أطيب الأكلات .. من مطعم بيت أهلنا
+</p>
