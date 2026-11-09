@@ -11,13 +11,10 @@
 ## 🎬 فيديو توضيحي لتطبيق المستخدم
 
 شاهد الفيديو التالي للتعرّف على تجربة استخدام تطبيق بيت أهلنا، واستعراض واجهات التطبيق وطريقة تصفح الوجبات والعروض الخاصة وإرسال الطلبات.
-
 <p align="center">
-  <a href="YOUTUBE_VIDEO_LINK">
-    <img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" width="85%" alt="فيديو توضيحي لتطبيق بيت أهلنا">
+  <a href="https://github.com/zynbtlhrl-cmyk/Bayt-Ahlana-Restaurant-User-Interface/blob/main/km_20261109_720p_30f_20261109_204032.mp4">
+    🎬 مشاهدة فيديو شرح تطبيق بيت أهلنا
   </a>
-  <br>
-  مشاهدة فيديو شرح تطبيق بيت أهلنا على YouTube
 </p>
 
 ---
