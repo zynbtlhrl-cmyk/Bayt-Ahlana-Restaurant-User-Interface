@@ -1,4 +1,4 @@
-
+6
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -102,7 +102,7 @@ footer {
 </div>
 
 <div class="card">
-<img src="assets/images/signup.png" alt="إنشاء حساب">
+<img src="file_00000000572481f4ac9c2acd98dfa888.png" alt="إنشاء حساب">
 <h3>إنشاء حساب جديد</h3>
 </div>
 
