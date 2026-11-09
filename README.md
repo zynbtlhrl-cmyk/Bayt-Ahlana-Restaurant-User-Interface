@@ -97,7 +97,7 @@ footer {
 <div class="gallery">
 
 <div class="card">
-<img src="assets/images/login.png" alt="تسجيل الدخول">
+<img src="file_00000000b66481f4a87e349163d67daf.png" alt="تسجيل الدخول">
 <h3>تسجيل الدخول</h3>
 </div>
 
