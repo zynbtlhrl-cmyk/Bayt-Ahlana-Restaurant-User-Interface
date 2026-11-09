@@ -1,69 +1,41 @@
-# 🍽️ Bayt Ahlana – Restaurant User App
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فيديو تطبيق بيت أهلنا</title>
 
-<p align="center">
-  <h2>🏡 مطعم بيت أهلنا</h2>
-  <p>تطبيق طلب الطعام الإلكتروني – واجهة المستخدم</p>
-  <b>Bayt Ahlana Restaurant | Flutter Application</b>
-</p>
+  <style>
+    body {
+      background: #111827;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
 
----
+    h1 {
+      color: #f59e0b;
+    }
 
-## 🎬 فيديو توضيحي لتطبيق المستخدم
+    video {
+      width: 100%;
+      max-width: 900px;
+      border-radius: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
 
-شاهد الفيديو التالي للتعرّف على تجربة استخدام تطبيق بيت أهلنا، واستعراض واجهات التطبيق وطريقة تصفح الوجبات والعروض الخاصة وإرسال الطلبات.
-<p align="center">
-  <a href="https://github.com/zynbtlhrl-cmyk/Bayt-Ahlana-Restaurant-User-Interface/blob/main/km_20261109_720p_30f_20261109_204032.mp4">
-    🎬 مشاهدة فيديو شرح تطبيق بيت أهلنا
-  </a>
-</p>
+  <h1>🍽️ تطبيق بيت أهلنا</h1>
+  <h2>الفيديو التوضيحي للتطبيق</h2>
 
----
+  <video controls playsinline>
+    <source src="km_20261109_720p_30f_20261109_204032.mp4"
+            type="video/mp4">
+    متصفحك لا يدعم تشغيل الفيديو.
+  </video>
 
-## 📱 نبذة عن التطبيق
-
-**بيت أهلنا** هو تطبيق إلكتروني خاص بمطعم بيت أهلنا، تم تطويره باستخدام Flutter لتوفير تجربة سهلة وعصرية للمستخدمين في تصفح الوجبات وطلب الطعام ومتابعة الطلبات.
-
-يهدف التطبيق إلى تسهيل عملية الطلب وتوفير واجهة استخدام جميلة وسريعة تدعم اللغة العربية.
-
-## ✨ مميزات التطبيق
-
-- 🔐 إنشاء حساب وتسجيل الدخول.
-- 🍔 تصفح الوجبات والأطعمة.
-- 🎁 عرض العروض والخصومات الخاصة.
-- 🔎 البحث عن الوجبات.
-- 🛒 إضافة العروض إلى السلة.
-- 📝 إرسال طلبات الطعام.
-- 📦 متابعة الطلبات وحالاتها.
-- 👤 الملف الشخصي للمستخدم.
-- 🌐 واجهة عربية تدعم RTL.
-
-## 🛠️ التقنيات المستخدمة
-
-| التقنية | الاستخدام |
-|---|---|
-| Flutter | تطوير واجهة التطبيق |
-| Dart | لغة البرمجة |
-| Laravel | Backend API |
-| MySQL | قاعدة البيانات |
-| REST API | تبادل البيانات |
-| SharedPreferences | حفظ بيانات الجلسة |
-
-## 🖥️ واجهات التطبيق
-
-سيتم إضافة صور شاشات التطبيق هنا.
-
-## 👨‍💻 المطور
-
-**Ali Abbas Saed**
-
-Flutter Developer & Laravel Backend Developer
-
-📍 Mosul, Iraq
-
----
-
-<p align="center">
-  <b>Bayt Ahlana Restaurant</b>
-  <br>
-  ❤️ أطيب الأكلات .. من مطعم بيت أهلنا
-</p>
+</body>
+</html>
