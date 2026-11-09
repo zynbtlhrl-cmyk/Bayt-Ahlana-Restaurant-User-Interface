@@ -118,7 +118,7 @@ footer {
 </div>
 
 <div class="card">
-<img src="assets/images/restaurants.png" alt="المطاعم">
+<img src="file_0000000051688243a9ac4de5f1de28c5.png" alt="المطاعم">
 <h3>صفحة المطاعم</h3>
 </div>
 
