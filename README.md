@@ -113,7 +113,7 @@ footer {
 <div class="gallery">
 
 <div class="card">
-<img src="assets/images/home.png" alt="الصفحة الرئيسية">
+<img src="file_00000000b4a081f4b21f7b87f7a6e915.png" alt="الصفحة الرئيسية">
 <h3>الصفحة الرئيسية</h3>
 </div>
 
