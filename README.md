@@ -17,7 +17,7 @@
     <img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" width="85%" alt="فيديو توضيحي لتطبيق بيت أهلنا">
   </a>
   <br>
-  <b>▶ اضغط على الصورة لمشاهدة الفيديو التوضيحي</b>
+  مشاهدة فيديو شرح تطبيق بيت أهلنا على YouTube
 </p>
 
 ---
