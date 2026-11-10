@@ -133,7 +133,7 @@ footer {
 </div>
 
 <div class="card">
-<img src="assets/images/orders.png" alt="الطلبات">
+<img src="file_000000005d78824689ec2c6cb3939602.png" alt="الطلبات">
 <h3>صفحة الطلبات</h3>
 </div>
 
