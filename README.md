@@ -138,7 +138,7 @@ footer {
 </div>
 
 <div class="card">
-<img src="assets/images/profile.png" alt="الصفحة الشخصية">
+<img src="file_0000000073fc82469f8e34d9867db678.png"الصفحة الشخصية">
 <h3>الصفحة الشخصية</h3>
 </div>
 
