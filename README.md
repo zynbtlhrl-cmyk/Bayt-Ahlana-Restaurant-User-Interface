@@ -1,4 +1,4 @@
-6
+
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -23,7 +23,7 @@ header {
   background: #704d32;
   color: white;
   text-align: center;
-  padding: 30px 15px;
+  padding: 35px 15px;
 }
 
 header h1 {
@@ -33,52 +33,98 @@ header h1 {
 
 header p {
   color: #f2d5a8;
+  margin-bottom: 0;
 }
 
 .container {
-  max-width: 1100px;
+  max-width: 1000px;
   margin: auto;
   padding: 20px;
 }
 
 .section-title {
   text-align: center;
-  margin: 35px 0 20px;
+  margin: 40px 0 25px;
   color: #704d32;
+  font-size: 23px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #dfc5a5;
 }
 
+/* صورتان في كل صف */
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  align-items: start;
 }
 
 .card {
   background: white;
-  border-radius: 15px;
+  border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 5px 15px #00000015;
+  box-shadow: 0 5px 18px #00000015;
   text-align: center;
-  padding-bottom: 15px;
+  border: 1px solid #ead9c5;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 22px #00000020;
 }
 
 .card img {
   width: 100%;
   height: auto;
   display: block;
+  object-fit: contain;
+  background: #fff;
 }
 
 .card h3 {
-  padding: 10px;
   margin: 0;
+  padding: 15px 8px;
+  font-size: 17px;
+  color: #704d32;
+  border-top: 1px solid #f0e5d9;
 }
 
 footer {
   background: #704d32;
   color: white;
   text-align: center;
-  padding: 20px;
-  margin-top: 40px;
+  padding: 22px;
+  margin-top: 45px;
+  line-height: 1.8;
+}
+
+/* الهاتف */
+@media (max-width: 480px) {
+  .container {
+    padding: 12px;
+  }
+
+  .gallery {
+    gap: 12px;
+  }
+
+  .card {
+    border-radius: 12px;
+  }
+
+  .card h3 {
+    font-size: 14px;
+    padding: 12px 5px;
+  }
+
+  .section-title {
+    font-size: 19px;
+  }
+
+  header h1 {
+    font-size: 23px;
+  }
 }
 </style>
 </head>
@@ -92,7 +138,9 @@ footer {
 
 <div class="container">
 
-<h2 class="section-title">🔐 تسجيل الدخول وإنشاء الحساب</h2>
+<h2 class="section-title">
+🔐 تسجيل الدخول وإنشاء الحساب
+</h2>
 
 <div class="gallery">
 
@@ -108,7 +156,9 @@ footer {
 
 </div>
 
-<h2 class="section-title">🏠 واجهات التطبيق الرئيسية</h2>
+<h2 class="section-title">
+🏠 واجهات التطبيق الرئيسية
+</h2>
 
 <div class="gallery">
 
@@ -138,18 +188,16 @@ footer {
 </div>
 
 <div class="card">
-<img src="file_0000000073fc82469f8e34d9867db678.png"الصفحة الشخصية">
+<img src="file_0000000073fc82469f8e34d9867db678.png" alt="الصفحة الشخصية">
 <h3>الصفحة الشخصية</h3>
 </div>
 
 </div>
-
 </div>
 
 <footer>
-  جميع الحقوق محفوظة © بيت أهلنا للمطاعم
+جميع الحقوق محفوظة © بيت أهلنا للمطاعم
 </footer>
 
 </body>
 </html>
-
