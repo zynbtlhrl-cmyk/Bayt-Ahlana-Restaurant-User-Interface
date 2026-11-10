@@ -123,7 +123,7 @@ footer {
 </div>
 
 <div class="card">
-<img src="assets/images/food.png" alt="تفاصيل الطعام">
+<img src="file_0000000011a0820a80901e669493f509.png" alt="تفاصيل الطعام">
 <h3>تفاصيل الطعام</h3>
 </div>
 
